@@ -1,0 +1,12 @@
+*.pyc
+*~
+.vscode/
+Lib/
+Scripts/
+
+__pycache__
+myvenv
+db.sqlite3
+/static
+
+debug.log
